@@ -1,6 +1,6 @@
 # RockPaperScissors
 
-This is a simple Rock Paper Scissors game
+This is a simple Rock Paper Scissors game made with python
 
 
 ## PLEASE READ ##
