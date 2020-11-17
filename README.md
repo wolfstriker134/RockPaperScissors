@@ -2,6 +2,7 @@
 
 This is a simple Rock Paper Scissors game made with python
 
+## .py to .exe ##
 If you want to change a .py file to .exe:
 1. open cmd as admin
 2. type 'pip install pyinstaller'
